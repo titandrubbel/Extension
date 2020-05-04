@@ -1,6 +1,3 @@
-# defect
-The example of how to build the Theia-based applications with the defect.
-
 ## Getting started
 
 Install [nvm](https://github.com/creationix/nvm#install-script).
