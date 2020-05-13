@@ -1,3 +1,11 @@
+## Extension API
+
+run the command yarn inside main folder
+
+run yarn start in browser-app folder
+
+
+
 ## Getting started
 
 Install [nvm](https://github.com/creationix/nvm#install-script).
